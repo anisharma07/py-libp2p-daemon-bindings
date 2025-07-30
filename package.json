@@ -1,0 +1,24 @@
+{
+  "name": "py-libp2p-daemon-bindings",
+  "version": "1.0.0",
+  "description": "[![Unit tests](https://github.com/mhchia/py-libp2p-daemon-bindings/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/mhchia/py-libp2p-daemon-bindings/actions/workflows/unit-tests.yml)",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anisharma07/py-libp2p-daemon-bindings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anisharma07/py-libp2p-daemon-bindings/issues"
+  },
+  "homepage": "https://github.com/anisharma07/py-libp2p-daemon-bindings#readme"
+}
